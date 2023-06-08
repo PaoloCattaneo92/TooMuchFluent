@@ -1,14 +1,4 @@
-﻿
-
-
-
-
-
-
-
-
-
-using PaoloCattaneo.TooMuchFluent;
+﻿using PaoloCattaneo.TooMuchFluent;
 
 var boringValue = 2438;
 
